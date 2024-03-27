@@ -1,0 +1,47 @@
+.works h2 {
+	font-size: 75px;
+	font-weight: 800;
+	margin-bottom: 250px;
+	margin: 0 auto !important;
+	padding-bottom: 80px;
+}
+.container {
+	text-align: center;
+	margin: 0 auto;
+	width: 70%;
+	color: white;
+	/* padding-bottom: 80px; */
+}
+.card {
+	margin-bottom: 60px;
+	background: none;
+	border-radius: 20px;
+	box-shadow: 5px 5px 2px 2px black;
+	border: 1px solid black;
+}
+.footer {
+	padding-top: 200px;
+}
+.card:last-child {
+	margin-bottom: 0;
+}
+.card-title {
+	font-size: 30px;
+	color: white;
+	text-shadow: 2px 1px rgb(181, 162, 162);
+}
+.button {
+	background: none;
+	border: 1px solid rgb(181, 162, 162);
+	text-decoration: none;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 15px;
+	margin: 25px;
+}
+.button:hover {
+	background: none;
+	border: 1px solid white;
+	box-shadow: 2px 2px rgb(181, 162, 162);
+	color: white;
+}

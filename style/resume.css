@@ -1,0 +1,22 @@
+.resume h2 {
+	font-size: 75px;
+	font-weight: 800;
+	margin-bottom: 250px;
+	margin: 0 auto !important;
+	padding-bottom: 80px;
+}
+.resume img {
+	display: flex;
+	justify-content: center;
+	width: 80%;
+	height: auto;
+	margin: 0 auto;
+	padding-bottom: 80px;
+}
+.container {
+	text-align: center;
+	margin: 0 auto;
+	width: 70%;
+	color: white;
+	/* padding-bottom: 80px; */
+}

@@ -1,0 +1,24 @@
+.info h2 {
+	font-size: 80px;
+	font-weight: 800;
+	/* color: transparent;
+	-webkit-text-stroke: 1px white; */
+}
+.info {
+	padding-top: 50px;
+	margin-bottom: 50px;
+	width: 65%;
+}
+.containerR2 {
+	margin: 0 auto;
+	width: 65%;
+	padding-bottom: 300px;
+}
+.aboutMe {
+	color: white;
+}
+h3 {
+	margin-top: 30px;
+	color: transparent;
+	-webkit-text-stroke: 0.3px white;
+}
