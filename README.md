@@ -43,7 +43,7 @@ Go to the project directory
   cd home
 ```
 - Open the index.html file in your web browser to view the website locally.
-- Open the https://karimova1410.github.io/Portfolio/ in your web browser to view the besite.
+- Open the https://Karimova1410.github.io/Portfolio/ in your web browser to view the besite.
 
 ## Contributing
 If you have any suggestions, improvements, or bug fixes, feel free to contribute to this project. Simply fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated!
